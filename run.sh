@@ -18,6 +18,6 @@ fi
 
 cd "$GAME_DIR"
 
-packwiz-installer -g -s both "$PACK_DIR/pack.toml"
+packwiz-installer -g -s both "$PACK_DIR/pack/pack.toml"
 
 echo "Mods updated!"
