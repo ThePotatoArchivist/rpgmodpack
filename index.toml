@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "9709fcd0b100ec7848e853efc0c9f4452537c2de2665e09ad8e7fb94b8fe4b8e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2119d22a1869118e389237716e0f66bd58c4f3f2b4a0dd1e7558721860afdca7"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+metafile = true
